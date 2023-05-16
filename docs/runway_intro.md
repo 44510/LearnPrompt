@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # 简介
@@ -12,31 +12,31 @@ sidebar_position: 1
 
 其AI工具包含了：
 1. 视频生成
-![describe1](./img/gif1.gif)
+![describe1](./runway/img/gif1.gif)
 
 2. 图片生成
-![describe1](./img/gif2.gif)
+![describe1](./runway/img/gif2.gif)
 
 3. 扩展的图像
-![describe1](./img/gif3.gif)
+![describe1](./runway/img/gif3.gif)
 
 4. 重新想象任何图像
-![describe1](./img/gif4.gif)
+![describe1](./runway/img/gif4.gif)
 
 5. 擦除视频中的东西
-![describe1](./img/gif5.gif)
+![describe1](./runway/img/gif5.gif)
 
 6. 放慢视频播放速度
-![describe1](./img/gif6.gif)
+![describe1](./runway/img/gif6.gif)
 
 7. 让图片动起来
-![describe1](./img/gif7.gif)
+![describe1](./runway/img/gif7.gif)
 
 8. 去除背景
-![describe1](./img/gif8.gif)
+![describe1](./runway/img/gif8.gif)
 
 9. 训练自己的想要风格的AI模型
-![describe1](./img/gif9.gif)
+![describe1](./runway/img/gif9.gif)
 
 .
 .

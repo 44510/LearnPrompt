@@ -56,16 +56,16 @@ const FeatureList: FeatureItem[] = [
 function Feature({title, Svg, description}: FeatureItem) {
   var to_path="docs/basics/intro";
   if(title=='ChatGPT'){
-    to_path="docs/basics/intro"
+    to_path="docs/chatgpt/basics/intro"
   }
   else if (title=='Midjourney'){
-    to_path="docs/Images/intro"
+    to_path="docs/midjourney_intro"
   }
   else if (title=='Runway'){
-    to_path='docs/runway/chap1'
+    to_path='docs/runway_intro'
   }
   else if (title=='Stable Diffusion'){
-    to_path='docs/stable_diffusion/chap1'
+    to_path='docs/sd_intro'
   }
   return (
     <div className={clsx('col col--6')}>

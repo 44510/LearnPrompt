@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Learn Prompt',
-  tagline: 'What is next AIGC ?',
+  title: 'Learn Prompt 4 Free',
+  tagline: 'What is next AIGC ? \n 现已支持ChatGPT, Stable Diffusion, Midjourney和Runway教程',
   favicon: 'img/logo.png',
   //'img/favicon.ico',
 
@@ -87,6 +87,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       navbar: {
         title: 'Learn Prompt',
         logo: {
@@ -95,18 +100,52 @@ const config = {
          
         },
         items: [
+          //{
+          //  type: 'docSidebar',
+           // sidebarId: 'tutorialSidebar',
+           // position: 'left',
+          //  label: '教程',
+          //},
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: '教程',
+            type:'doc',
+            docId:'intro',
+            position:'left',
+            label:'Welcome'
           },
-          {to: '/blog', label: '加入我们 & AI快讯', position: 'left'},
           {
-            href: '/blog/welcome/',
-            label: '更多资源',
-            position: 'right',
+
+            type:'doc',
+            docId:'chatgpt_intro',
+            position:'left',
+            label:'Chatgpt'
+
           },
+          {
+
+            type:'doc',
+            docId:'midjourney_intro',
+            position:'left',
+            label:'Midjourney'
+
+          },
+          {
+
+            type:'doc',
+            docId:'runway_intro',
+            position:'left',
+            label:'Runway'
+
+          },
+          {
+
+            type:'doc',
+            docId:'sd_intro',
+            position:'left',
+            label:'Stable Diffusion'
+
+          },
+          {to: '/blog', label: '加入我们 & AI快讯', position: 'right'},
+          
           //{to: '/blog/changelog', label: '更新日志', position: 'right'},
           {
             href: 'https://github.com/LearnPrompt/LearnPrompt',
