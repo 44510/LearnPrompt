@@ -68,7 +68,7 @@ AI沃茨是一个中文AIGC学习社区，我们的开源课程 https://www.lear
 
 |Casper|Kyrie | 微信群 |
 |--|--|--|
-|![Casper](../static/img/Carl.jpg) |![Kyrie](../static/img/Kyrie.jpg) |![Group](../static/img/group.jpg) |
+|![Casper](../static/img/Carl.jpg) |![Kyrie](../static/img/Kyrie.jpg) |![Group](../static/img/group3.jpg) |
 
 也欢迎各位通过以下社交平台关注我们：
 * [即刻](https://okjk.co/vVERU6)：实时分享 AI 相关的新闻和产品体验。

@@ -110,14 +110,14 @@ const config = {
             type:'doc',
             docId:'intro',
             position:'left',
-            label:'Welcome'
+            label:'😄 Welcome'
           },
           {
 
             type:'doc',
             docId:'chatgpt_intro',
             position:'left',
-            label:'Chatgpt'
+            label:'📝 Chatgpt'
 
           },
           {
@@ -125,7 +125,7 @@ const config = {
             type:'doc',
             docId:'midjourney_intro',
             position:'left',
-            label:'Midjourney'
+            label:'🎨 Midjourney'
 
           },
           {
@@ -133,7 +133,7 @@ const config = {
             type:'doc',
             docId:'runway_intro',
             position:'left',
-            label:'Runway'
+            label:'🎥 Runway'
 
           },
           {
@@ -141,7 +141,7 @@ const config = {
             type:'doc',
             docId:'sd_intro',
             position:'left',
-            label:'Stable Diffusion'
+            label:'🖼️ Stable Diffusion'
 
           },
           {to: '/blog', label: '加入我们 & AI快讯', position: 'right'},
