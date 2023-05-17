@@ -26,9 +26,9 @@ https://www.learnprompt.pro
 
 我们建立了一个交流群，在这里我们会更新各种实用的prompt使用技巧，好用不割韭菜的各类工具推荐及使用教学，后期我们还会更新AI相关的各种科普知识以及硬核的论文解读、模型复现等。如果微信二维码失效，你也可以直接添加我们开发者的微信：
 
-|Casper|Kyrie | 微信群 |
+|Casper |Kyrie | 微信群 |
 |--|--|--|
-|![Casper](../../static/img/Carl.jpg) |![Kyrie](../../static/img/Kyrie.jpg) |![Group](../../static/img/group3.jpg) |
+|![Casper](../../static/img/Carl.jpg) |![Kyrie](../../static/img/Kyrie.jpg) |![Group](../../static/img/groupE.jpg) |
 
 ## 提交反馈
 
