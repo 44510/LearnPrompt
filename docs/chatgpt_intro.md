@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-#  ChatGPT 学习指南
+#  简介
 
 <head>
   <script defer="defer" src="https://embed.trydyno.com/embedder.js"></script>

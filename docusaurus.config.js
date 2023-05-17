@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Learn Prompt',
-  tagline: 'What is next AIGC ? \n 现已支持ChatGPT, Stable Diffusion, Midjourney和Runway教程',
+  tagline: 'What is next AIGC ?',
   favicon: 'img/logo.png',
   //'img/favicon.ico',
 
@@ -117,7 +117,7 @@ const config = {
             type:'doc',
             docId:'chatgpt_intro',
             position:'left',
-            label:'📝 Chatgpt'
+            label:'📝 ChatGPT'
 
           },
           {
@@ -126,6 +126,12 @@ const config = {
             docId:'midjourney_intro',
             position:'left',
             label:'🎨 Midjourney'
+          },
+          {
+            type:'doc',
+            docId:'sd_intro',
+            position:'left',
+            label:'🖼️ Stable Diffusion'
 
           },
           {
@@ -134,14 +140,6 @@ const config = {
             docId:'runway_intro',
             position:'left',
             label:'🎥 Runway'
-
-          },
-          {
-
-            type:'doc',
-            docId:'sd_intro',
-            position:'left',
-            label:'🖼️ Stable Diffusion'
 
           },
           {to: '/blog', label: '加入我们 & AI快讯', position: 'right'},
