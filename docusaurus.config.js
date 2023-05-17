@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Learn Prompt 4 Free',
+  title: 'Learn Prompt',
   tagline: 'What is next AIGC ? \n 现已支持ChatGPT, Stable Diffusion, Midjourney和Runway教程',
   favicon: 'img/logo.png',
   //'img/favicon.ico',

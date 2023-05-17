@@ -28,7 +28,7 @@ https://www.learnprompt.pro
 
 |Casper|Kyrie | 微信群 |
 |--|--|--|
-|![Casper](../../static/img/Carl.jpg) |![Kyrie](../../static/img/Kyrie.jpg) |![Group](../../static/img/group.jpg) |
+|![Casper](../../static/img/Carl.jpg) |![Kyrie](../../static/img/Kyrie.jpg) |![Group](../../static/img/group3.jpg) |
 
 ## 提交反馈
 
