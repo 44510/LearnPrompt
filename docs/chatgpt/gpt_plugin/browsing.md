@@ -37,7 +37,8 @@
 ## 插件使用 
 
 回到ChatGPT的聊天页面，这时候已经多出来**GPT4**的选项。
-
+  
+  
 ![step4](./img/step4.jpg)
 
 点击右下角“...”里的Settings，打开Beat features里的Web browsing
